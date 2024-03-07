@@ -15,6 +15,7 @@ Some identifiable risk factors for diabetes are:
 * Activity at Work
 * General Health
 * Age
+
 These independent variables were proven to be significant in their correlation to diabetes as risk factors via statistical tests and analysis, thus suggesting a significant role in diabetes risk prediction. In addition, the distribution of these variables does not suggest other factors skewing the data to be biased, such as time of recent checkup contributing to a timely diabetes diagnosis.
 
 Physical activity level is often one of the most common literature-cited factors of diabetes risk, and this model and analysis support prior research and knowledge. With the prevalence of high sugar, high fat, and high sodium levels in American processed food and culture, individuals considering their health to be fair or good might be less restrictive and less mindful of their diet and physical activity. Age is also a major factor of diabetes risk because individuals have increased Type II diabetes risk due to biological effects of increasing insulin resistance and impaired pancreatic islet function as they age according to the American Diabetes Association.
