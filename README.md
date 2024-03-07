@@ -1,7 +1,7 @@
 # diabetes_risks
 Objective: Build a model to identify risk factors for diabetes. 
 
-# defining Questions
+## Defining Questions
 
 Are there instances where I want to rescale data? #Rescale changes the range of the data
 
