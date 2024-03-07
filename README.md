@@ -1,13 +1,6 @@
 # diabetes_risks
 Objective: Build a model to identify risk factors for diabetes. 
 
-## Defining Questions
-
-Are there instances where I want to rescale data? #Rescale changes the range of the data
-
-What are some identifiable risk factors for diabetes? How do you
-know?
-
 # Intro
 With data from the CDC and Behavioral Risk Factor Surveillance System, this model utilizes Logistical Regression to predict the likelihood of diabetes based on independent variables identified during the data processing and analysis.
 
